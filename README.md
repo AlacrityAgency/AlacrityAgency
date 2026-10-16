@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.alacrity.agency/"><img src="https://img.shields.io/badge/Website-alacrity.agency-0b0b0c?style=for-the-badge" alt="Website"></a>
   <a href="https://www.linkedin.com/company/alacrity-agency"><img src="https://img.shields.io/badge/LinkedIn-Alacrity_Agency-0b0b0c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:business@alacrity.agency"><img src="https://img.shields.io/badge/Contact-business%40alacrity.agency-0b0b0c?style=for-the-badge" alt="Email"></a>
+  <a href="mailto:alacrity@alacrity.agency"><img src="https://img.shields.io/badge/Contact-alacrity%40alacrity.agency-0b0b0c?style=for-the-badge" alt="Email"></a>
 </p>
 
 ## About
@@ -62,7 +62,7 @@ Flux gives each department AI assistants with clearly defined responsibilities, 
 
 Tell us about the systems you use today and the result you expect. We reply within two working days.
 
-- **Projects and partnerships:** [business@alacrity.agency](mailto:business@alacrity.agency)
+- **Projects and partnerships:** [alacrity@alacrity.agency](mailto:alacrity@alacrity.agency)
 - **General enquiries:** [info@alacrity.agency](mailto:info@alacrity.agency)
 - **Careers:** [alacrity.agency/#/careers](https://www.alacrity.agency/#/careers)
 
