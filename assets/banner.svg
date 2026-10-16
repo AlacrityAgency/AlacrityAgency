@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="t d">
+  <title id="t">Alacrity</title>
+  <desc id="d">Alacrity. Intelligent modernization. Modernize without stopping.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0b0b0c" stop-opacity="1"/>
+      <stop offset="0.55" stop-color="#0b0b0c" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#0b0b0c" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="360" rx="14" fill="#0b0b0c"/>
+  <rect width="1280" height="360" rx="14" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="13.5" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
+
+  <!-- capability curve: legacy (dashed) vs modernized (solid) -->
+  <g transform="translate(630 0)">
+    <path d="M0 300 C 90 296 140 268 220 250 S 360 226 400 190 S 500 120 580 70" fill="none" stroke="#ffffff" stroke-opacity="0.28" stroke-width="1.5" stroke-dasharray="5 6"/>
+    <path d="M0 300 C 80 292 130 236 210 214 S 330 180 390 146 S 490 84 580 44 L 580 330 L 0 330 Z" fill="url(#area)"/>
+    <path d="M0 300 C 80 292 130 236 210 214 S 330 180 390 146 S 490 84 580 44" fill="none" stroke="#ffffff" stroke-width="2.25" stroke-linecap="round"/>
+    <g fill="#0b0b0c" stroke="#ffffff" stroke-width="1.75">
+      <circle cx="0" cy="300" r="5"/>
+      <circle cx="210" cy="214" r="5"/>
+      <circle cx="390" cy="146" r="5"/>
+      <circle cx="580" cy="44" r="6.5"/>
+    </g>
+    <line x1="210" y1="214" x2="210" y2="330" stroke="#ffffff" stroke-opacity="0.22" stroke-dasharray="3 5"/>
+    <text x="0" y="326" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10.5" letter-spacing="2.4" fill="#ffffff" fill-opacity="0.45">LEGACY</text>
+    <text x="580" y="326" text-anchor="end" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="10.5" letter-spacing="2.4" fill="#ffffff" fill-opacity="0.45">MODERNIZED</text>
+  </g>
+  <rect width="760" height="360" rx="14" fill="url(#fade)"/>
+
+  <!-- wordmark -->
+  <text x="72" y="118" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="5.5" fill="#ffffff" fill-opacity="0.55">INTELLIGENT MODERNIZATION</text>
+  <text x="68" y="196" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="9" fill="#ffffff">ALACRITY</text>
+  <line x1="72" y1="226" x2="136" y2="226" stroke="#ffffff" stroke-width="2"/>
+  <text x="72" y="268" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="22" fill="#ffffff" fill-opacity="0.9">Modernize without stopping.</text>
+  <text x="72" y="300" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="3" fill="#ffffff" fill-opacity="0.5">AI ENGINEERING  ·  DATA SCIENCE  ·  AUTOMATION</text>
+</svg>
