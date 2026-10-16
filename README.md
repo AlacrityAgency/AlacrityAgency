@@ -1,62 +1,53 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Alacrity. Modernize without stopping." width="100%">
+  <img src="assets/banner.svg" alt="Alacrity. Machine speed, human decision." width="100%">
 </p>
 
 <p align="center">
-  <a href="https://www.alacrity.agency/"><img src="https://img.shields.io/badge/Website-alacrity.agency-0b0b0c?style=for-the-badge" alt="Website"></a>
-  <a href="https://www.linkedin.com/company/alacrity-agency"><img src="https://img.shields.io/badge/LinkedIn-Alacrity_Agency-0b0b0c?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:alacrity@alacrity.agency"><img src="https://img.shields.io/badge/Contact-alacrity%40alacrity.agency-0b0b0c?style=for-the-badge" alt="Email"></a>
+  <a href="https://www.alacrity.agency/"><img src="https://img.shields.io/badge/Website-alacrity.agency-0d0f10?style=for-the-badge" alt="Website"></a>
+  <a href="https://www.linkedin.com/company/alacrity-agency"><img src="https://img.shields.io/badge/LinkedIn-Alacrity_Agency-0d0f10?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:alacrity@alacrity.agency"><img src="https://img.shields.io/badge/Contact-alacrity%40alacrity.agency-0d0f10?style=for-the-badge" alt="Email"></a>
 </p>
 
 ## About
 
-Alacrity modernizes the systems organizations already run, using AI engineering, data science and automation. We keep what works, redesign what slows you down, and build an intelligent layer on top, without stopping the work.
+**AI engineering, made for the real world.** We connect the systems you already run with data, intelligent assistants and better decisions, building on what works.
 
-We study how your operation really works, then design and build the pieces that are missing. The result is a durable system your team can run, measure and improve long after delivery.
+Our main service is building intelligent systems on top of the infrastructure an organization already runs. The machine does the work at machine speed; a person reviews the output, with its reasoning, and makes the final decision.
 
-## What we build
+## How it fits together
 
-| Area | Focus |
-| :-- | :-- |
-| **AI Engineering** | Production AI systems and agents built around your processes |
-| **Data Science** | Reliable analysis and forecasts, with assumptions everyone can see |
-| **Automation** | Repetitive manual work turned into monitored, auditable workflows |
-| **Intelligent Systems** | Decision-support layers added on top of the systems you already use |
-| **Forecasting & Optimization** | Planning and resource decisions driven by measurable models |
-| **Software Development** | Maintainable software engineered for real operating conditions |
-| **Systems Integration** | Disconnected tools and data sources joined into one picture |
-| **Infrastructure Modernization** | Legacy platforms upgraded step by step, with no big-bang cutover |
+| Your systems | Intelligence layer | Your control |
+| :-- | :-- | :-- |
+| Data, software and workflows you already run | Connect, analyze and coordinate | Review and final human decision |
 
-## From legacy systems to intelligent operations
-
-| Before | After |
-| :-- | :-- |
-| Disconnected systems | Integrated systems |
-| Manual, repetitive work | Automated processes |
-| Scattered data | Organized, decision-ready data |
-| Slow operations | Faster, measurable operations |
-
-**How we work:** Assess, Design, Build, Integrate, Improve. Every decision and its alternatives are written down, so project knowledge is not lost when people change.
+Every step is visible, and every output reaches the responsible person together with its supporting evidence.
 
 ## Product: Flux
 
 **From a fully human company to a human + AI organization.**
 
-Flux gives each department AI assistants with clearly defined responsibilities, just like an org chart. Managers set goals, budgets and limits of authority, and a person always gives the final approval.
+Flux coordinates AI assistants with defined roles and budgets and an independent check on every answer, ending in human approval.
 
-- Installed on your own infrastructure or a dedicated environment you control
-- Budget caps for the whole company, each department and each task
-- Sensitive actions such as payments, deletions or publishing require human approval
-- A full record of every action, cost and approval
+*Status: desktop v0.5.1, accepting pilot partners.* More at [alacrity.agency](https://www.alacrity.agency/#/products).
 
-*Status: demo, accepting pilot partners.* [Learn more at alacrity.agency](https://www.alacrity.agency/#/products)
+## How we build
+
+| Step | Phase | Typical duration |
+| :-- | :-- | :-- |
+| 01 | **Discover.** Map the operation, data flows and constraints as they run today | 1 to 3 weeks |
+| 02 | **Design.** Architecture, transition plan and written decision records | 2 to 4 weeks |
+| 03 | **Build.** Engineer the system with automated tests | 6 to 16 weeks |
+| 04 | **Integrate.** Connect it to the systems you already run | 2 to 5 weeks |
+| 05 | **Improve.** Measure and refine in production | Ongoing |
+
+**Engineering and ownership guarantee.** Code, documentation and a rollback path, completely transparent and owned by you. Zero vendor lock-in: open standards, Docker containers, automated tests and operational runbooks.
 
 ## How we make decisions
 
 1. **Deep work over visible busyness.** We protect uninterrupted time for difficult technical work.
 2. **Ownership over hand-offs.** The person closest to the problem has the context and authority to improve it.
 3. **Evidence over hierarchy.** Strong decisions are supported by tests, data and clear reasoning.
-4. **AI as a collaborator.** Agents handle repeatable work; humans retain judgment and accountability.
+4. **AI as a collaborator.** Agents handle repeatable work; humans retain judgment, accountability and final authority.
 
 ## Work with us
 
